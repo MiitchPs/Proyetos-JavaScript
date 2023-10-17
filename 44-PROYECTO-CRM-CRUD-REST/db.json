@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mitchel Poblete",
+      "email": "mitchel.poblete@outlook.com",
+      "telefono": "58691672",
+      "empresa": "Jr Developers",
+      "id": 1
+    },
+    {
+      "nombre": "baki hanma",
+      "email": "baki@hanma.com",
+      "telefono": "16511",
+      "empresa": "Son of ogre",
+      "id": 2
+    }
+  ]
+}
